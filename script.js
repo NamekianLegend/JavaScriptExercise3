@@ -60,5 +60,5 @@ console.log("User name: ", userName); // print user name
 console.log("User age: ", userAge); // print user age
 
 //Extra step: alert user with input, just for fun
-alert("Hello " + userName + "! You are " + userAge + " years old."); // alert user with input
+alert("Hello " + userName + "! You are " + userAge + " years old."); // alert the user with their input
 
